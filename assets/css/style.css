@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+.body, html {
+  background-color: #f4d04e;
+  font-optical-sizing: auto;
+  font-family: "Figtree", sans-serif;
+  box-sizing: border-box;
+}
+.container {
+  margin-right: 552px;
+  margin-left: 552px;
+  margin-top: 242.5px;
+  margin-bottom: 517.5px;
+  width: 384px;
+  padding: 12px;
+  gap: 24px;
+  border-radius: 20px;
+  border: 1px solid #111111;
+  box-shadow: 8px 8px black;
+  background-color: white;
+
+}
+
+.header-img {
+  width: 336px;
+  border-radius: 10px 0px 0px 0px;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-top: 24px;
+}
+.category {
+  width: 382px;
+  padding-left: 24px;
+  gap: 8px;
+  border-radius: 4px 0px 0px 0px;
+}
+
+.title {
+  width: 120px;
+  height: Hug (29px) px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  gap: 8px;
+  border: 1px solid #f4d04e;
+  border-radius: 4px;
+  opacity: 0px;
+  background-color: #f4d04e;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.title h2 {
+  font-size: bold;
+}
+.category .title h4 {
+  width: 500px;
+  margin-bottom: 12px;
+  font-family: Figtree;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+}
+
+.category .title2 {
+  width: 600px;
+  padding-bottom: 12px;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  text-align: left;
+}
+.date {
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+text-align: left;
+padding-bottom: 12px;
+
+}
+.category .content {
+  width: 336px;
+  padding-bottom: 24px;
+  color: Grey;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+.usercard {
+  display: flex;
+  align-items: center;
+  margin-bottom: 29.5px;
+}
+
+.user-img {
+  height: 32px;
+  width: 32px;
+  padding-left: 12px;
+  margin-right: 5.5px;
+ 
+}
+.user-img h3 {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 21px;
+  text-align: left;
+  color: Black;
+}
+
+
